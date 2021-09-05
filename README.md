@@ -11,3 +11,6 @@
 #### Aprendizado
 * Criação de um REST API que possui endpoints para acessar, adicionar e atualizar informações de livros;
 * É possível o storage do título, autor e editora;
+
+#### Observação!
+Requer um arquivo .env contendo a URL do Database
